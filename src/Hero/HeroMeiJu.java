@@ -1,0 +1,5 @@
+package Hero;
+
+public enum HeroMeiJu{
+    TANK,WIZARD,ASSASSIN,ASSIST,WARRIOR,RANGED,PUSH,FARMING
+}
