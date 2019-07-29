@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TVSCHEDULE SYSTEM "1test.dtd">
+<TVSCHEDULE NAME="LIDEHUA">
+<CHANNEL CHAN="WUYANZU">
+    <BANNER></BANNER>
+
+    <DAY>
+        <DATE>
+
+        </DATE>
+
+        <HOLIDAY></HOLIDAY>
+    </DAY>
+
+    <DAY>
+        <DATE></DATE>
+        <PROGRAMSLOT VTR="JINCHENGWU">
+            <TIME></TIME>
+            <TITLE></TITLE>
+            <DESCRIPTION></DESCRIPTION>
+        </PROGRAMSLOT>
+    </DAY>
+</CHANNEL>
+</TVSCHEDULE>
